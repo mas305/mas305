@@ -1,4 +1,17 @@
-### Hi I'm Mostafa 👋
+
+# Hi, I'm Mostafa! 👋
+
+I'm a problem solver and frontend developer...
+## 🚀 About Me
+- instructor c++ at IEEE 
+- 🌍 I'm based in Cairo
+- ✉️  You can contact me at [mostafaamen305@gmail.com](mailto:mostafaamen305@gmail.com)
+- 🌱 Currently expanding my skill set with Frontend technologies **(HTML , CSS , Javascript)** .
+- 🧠 I'm learning Advanced TypeScript
+
+
+
+
 
 <!--
 **mas305/mas305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
