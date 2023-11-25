@@ -7,7 +7,6 @@ I'm a problem solver and frontend developer...
 - 🌍 I'm based in Cairo
 - ✉️  You can contact me at [mostafaamen305@gmail.com](mailto:mostafaamen305@gmail.com)
 - 🌱 Currently expanding my skill set with Frontend technologies **(HTML , CSS , Javascript)** .
-- 🧠 I'm learning Advanced TypeScript
 
 
 
